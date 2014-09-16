@@ -1,4 +1,4 @@
-# apache
+# Apache
 
 This module installs and starts apache web server on Windows:
 
